@@ -1,0 +1,25 @@
+.header img
+{
+	width: 500px; margin-left: -15px;
+    border: #ffb997;
+    border-style:double;
+    border-width: 10px;
+}
+body
+{
+background-image: linear-gradient(to right top, #ffb997, #f67e7d, #843b62, #621940, #0b032d);
+}
+
+.header
+{
+	color: white;font-family: 'Oleo Script Swash Caps';font-size: 80px;letter-spacing: 1px;margin-top: 80px;
+}
+
+h3 {
+    font-family: 'Oleo Script Swash Caps';
+    color: white;
+}
+h4 {
+   font-family: 'Oleo Script Swash Caps';
+   color: white;
+}
